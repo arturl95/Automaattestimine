@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="jUnit5">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/documentation/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-api/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-engine/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-engine/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-migrationsupport/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-migrationsupport/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-params/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-jupiter-params/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-commons/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-console-standalone/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-console/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-engine/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-engine/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-launcher/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-runner/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-suite-api/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-surefire-provider/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-platform-surefire-provider/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-vintage-engine/src/main/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/junit-vintage-engine/src/test/java" />
+      <root url="file://$APPLICATION_HOME_DIR$/lib/junit5-r5.0.0/platform-tests/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
