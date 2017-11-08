@@ -1,0 +1,22 @@
+Current temperature in Tallinn is 277.15 degrees
+Current temperature in Riga is 279.15 degrees
+Current temperature in Tallinn is 277.15 degrees
+Current temperature in Tallinn is 277.15 degrees
+Current temperature in Riga is 279.15 degrees
+Current temperature in Riga is 279.15 degrees
+Current temperature in Riga is 279.15 degrees
+Current temperature in Tallinn is 277.15degrees
+Current temperature in Tallinn is 277.15degrees
+Maximum temperature in Tallinn today is 277.892 degrees
+Maximum temperature in Tallinn tomorrow is 279.547 degrees
+Maximum temperature in Tallinn day after tomorrow is 276.935 degrees
+Minimum temperature in Tallinn today is 277.28 degrees
+Minimum temperature in Tallinn tomorrow is 279.547 degrees
+Minimum temperature in Tallinn day after tomorrow is 276.935 degrees
+Current temperature in Riga is 279.15degrees
+Maximum temperature in Riga today is 275.69 degrees
+Maximum temperature in Riga tomorrow is 278.163 degrees
+Maximum temperature in Riga day after tomorrow is 277.26 degrees
+Minimum temperature in Riga today is 274.967 degrees
+Minimum temperature in Riga tomorrow is 278.163 degrees
+Minimum temperature in Riga day after tomorrow is 277.26 degrees
