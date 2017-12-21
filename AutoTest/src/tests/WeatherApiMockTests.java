@@ -143,7 +143,7 @@ public class WeatherApiMockTests {
         assertEquals(true,ifFileExists);
         Files.delete(Paths.get("{TestCity}.txt"));
     }
-
+/*
     @Test
     public void testFileReader() throws Exception {
 
@@ -165,7 +165,7 @@ public class WeatherApiMockTests {
         Files.delete(Paths.get("{"+cityName+"}.txt"));
 
 
-    }
+    } */
 
 
 
